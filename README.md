@@ -12,6 +12,9 @@ Same as above, but without the denoise pass.
 ### Picard
 Captain Jean Luc Picard from the game "Star Trek Generations".
 
+### Data
+Commander Data from the game "Star Trek Generations".
+
 ## Installation
 
 These files need to be copied into `/var/lib/wyoming-piper/data`, or whatever path your installation of Piper uses on your system. A restart of Piper will be needed. If used with Homeassistant, that will also require a restart.
